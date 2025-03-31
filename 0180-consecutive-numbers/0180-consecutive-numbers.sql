@@ -1,0 +1,9 @@
+/* Write your T-SQL query statement below */
+SELECT DISTINCT NUM as ConsecutiveNums
+FROM
+(SELECT
+NUM,
+LEAD(NUM,1) OVER(ORDER BY id)  AS NUM1,
+LEAD(NUM,2) OVER(ORDER BY id) AS NUM2
+FROM LOGS) AS A
+WHERE (NUM = NUM1) AND (NUM = NUM2);
