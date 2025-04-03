@@ -14,6 +14,7 @@
 | [0185-department-top-three-salaries](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0584-find-customer-referee) |
 | [1179-game-play-analysis-i](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
