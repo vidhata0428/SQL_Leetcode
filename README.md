@@ -13,5 +13,6 @@
 | [0184-department-highest-salary](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0197-rising-temperature) |
+| [1179-game-play-analysis-i](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
