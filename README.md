@@ -21,6 +21,7 @@
 | [0595-big-countries](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0601-human-traffic-of-stadium) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1179-game-play-analysis-i](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
