@@ -26,5 +26,6 @@
 | [0607-sales-person](https://github.com/vidhata0428/SQL_Leetcode/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1182-game-play-analysis-iv) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vidhata0428/SQL_Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
